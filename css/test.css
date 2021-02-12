@@ -1,0 +1,16 @@
+body{background-color: violet;
+}
+h1{
+    font-size: 30px;
+    color: rgb(44, 1, 44);
+}
+h2{
+    font-size: 20px;
+    color: rgb(124, 21, 2);
+}
+.big{
+    font-size: 60px;
+}
+span{
+    color: rgb(117, 2, 117);
+}
